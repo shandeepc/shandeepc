@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Lysandra](https://github.com/shandeepc/Lysandra)
 
-- 👨‍💻 All of my projects are available at [https://shandeep.tk](https://shandeep.tk)
+- 👨‍💻 All of my projects are available at [https://shandeep.dev](https://shandeep.dev)
 
 - 📫 How to reach me **c.shandeep@gmail.com**
 
-- 📄 Know about my experiences [https://resume.shandeep.tk](https://resume.shandeep.tk)
+- 📄 Know about my experiences [https://resume.shandeep.dev](https://resume.shandeep.dev)
 
 - ⚡ Fun fact **Java is the best programming language ( ͡° ͜ʖ ͡°)**
 
